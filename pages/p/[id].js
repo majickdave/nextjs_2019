@@ -10,9 +10,7 @@ export default () => {
       <div className="markdown">
         <Markdown
           source={`
-This is our blog post.
-Yes. We can have a [link](/link).
-And we can have a title as well.
+Written by David Samuel
 
 ### This is a title
 
