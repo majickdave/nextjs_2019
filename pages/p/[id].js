@@ -12,9 +12,14 @@ export default () => {
           source={`
 Written by David Samuel
 
-### This is a title
+### Working for Google's Applied Machine Learning Intensive
 
-And here's the content.
+After completing my fellowship in deep learning, I started applying to jobs and
+an offer to contract with Google as a machine learning instructor.  They were
+piloting a new program at Scripps College, and I was super excited to be a part
+of the first college machine learning course offered by Google at a major
+University.  By the end of the program, my students had a trained a deep Learning
+model on either images or text, and deployed an app that ran the model.
       `}
         />
       </div>
