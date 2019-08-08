@@ -64,9 +64,9 @@ function getPosts() {
 const imageStyle = {
   width: '100%',
   height: '100%',
-  'max-height': 200,
-  'max-width': 300,
-  'object-fit': 'cover'
+  maxHeight: 200,
+  maxWidth: 300,
+  objectFit: 'cover'
 }
 
 const PostLink = ({ post }) => (

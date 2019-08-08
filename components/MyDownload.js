@@ -2,6 +2,7 @@
 const buttonStyle = {
   margin: 20,
   padding: 20,
+  textAlign: 'center'
 }
 
 export default function Download(props) {
