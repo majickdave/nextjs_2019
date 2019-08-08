@@ -1,7 +1,8 @@
 import Header from './Header'
 
 const layoutStyle = {
-  padding: 10,
+  padding: 20,
+  background: 'white'
 }
 
 export default function Card(props) {

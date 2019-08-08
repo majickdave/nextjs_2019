@@ -3,7 +3,7 @@ import Header from './Header'
 const layoutStyle = {
   margin: 10,
   padding: 20,
-  border: '1px solid #DDD'
+  background: 'darkgrey'
 }
 
 export default function Layout(props) {
